@@ -21,6 +21,7 @@
 		96EED63B1ACAFF95005E7D7E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 96EED61D1ACAFF95005E7D7E /* UIKit.framework */; };
 		96EED6431ACAFF95005E7D7E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 96EED6411ACAFF95005E7D7E /* InfoPlist.strings */; };
 		96EED6451ACAFF95005E7D7E /* UIScrollView_Challenge_SolutionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 96EED6441ACAFF95005E7D7E /* UIScrollView_Challenge_SolutionTests.m */; };
+		96EED64F1ACB00AD005E7D7E /* worldMap.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 96EED64E1ACB00AD005E7D7E /* worldMap.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		96EED6401ACAFF95005E7D7E /* UIScrollView Challenge SolutionTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UIScrollView Challenge SolutionTests-Info.plist"; sourceTree = "<group>"; };
 		96EED6421ACAFF95005E7D7E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		96EED6441ACAFF95005E7D7E /* UIScrollView_Challenge_SolutionTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIScrollView_Challenge_SolutionTests.m; sourceTree = "<group>"; };
+		96EED64E1ACB00AD005E7D7E /* worldMap.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = worldMap.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		96EED6201ACAFF95005E7D7E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				96EED64E1ACB00AD005E7D7E /* worldMap.jpeg */,
 				96EED6211ACAFF95005E7D7E /* UIScrollView Challenge Solution-Info.plist */,
 				96EED6221ACAFF95005E7D7E /* InfoPlist.strings */,
 				96EED6251ACAFF95005E7D7E /* main.m */,
@@ -232,6 +235,7 @@
 				96EED6321ACAFF95005E7D7E /* Images.xcassets in Resources */,
 				96EED6241ACAFF95005E7D7E /* InfoPlist.strings in Resources */,
 				96EED62D1ACAFF95005E7D7E /* Main.storyboard in Resources */,
+				96EED64F1ACB00AD005E7D7E /* worldMap.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
